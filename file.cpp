@@ -15,6 +15,9 @@ void quicksort(){
 void mergeSort(){
 
 }
+void insetionsort(){
+}
+
 int main(){
 cout<<"hello world"<<endl;
 cout<<"Adi is my best friend"<<endl;

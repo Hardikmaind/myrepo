@@ -4,10 +4,15 @@ using namespace std;
 void bubblesort(){
 
 //this is code for bubblesort
+}
 
 
 void quicksort(){
 //this is the funtion of the quick sort
+
+}
+
+void mergeSort(){
 
 }
 int main(){

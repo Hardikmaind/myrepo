@@ -17,6 +17,9 @@ void mergeSort(){
 }
 void insetionsort(){
 }
+void dummyfuntions(){
+
+}
 
 int main(){
 cout<<"hello world"<<endl;

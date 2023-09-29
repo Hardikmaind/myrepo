@@ -1,7 +1,7 @@
  #include<iostream>
 using namespace std;
 
-void bubblesort(){
+void bu123bblesort(){
 
 //this is code for bubblesort
 }

@@ -28,6 +28,7 @@ void dummyfuntions(){
 
 int main(){
 cout<<"hello world"<<endl;
+cout<<"fuck all"<<endl;
 cout<<"Adi is my best friend"<<endl;
 return 0;
 }
